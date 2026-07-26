@@ -1,0 +1,30 @@
+#core datahandling
+numpy==2.4.4
+pandas==3.0.2
+
+#plotting
+matplotlib==3.10.8
+seaborn==0.13.2
+
+#modeling
+scikit-learn==1.8.0
+lightgbm==4.7.0
+catboost==1.2.10
+xgboost==3.3.0
+
+#hyperparameter tunning
+optuna==4.9.0
+
+#model interpretability
+shap==0.52.0
+
+#model persistence
+joblib==1.5.3
+
+#used in 06_ensemble notebook
+scipy==1.17.1
+
+#notebook execution
+jupyter==1.1.1
+ipykernel==7.3.0
+nbformat==5.10.4
