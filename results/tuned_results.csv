@@ -1,0 +1,2 @@
+model_name,cv_accuracy_mean,cv_accuracy_std,cv_f1_macro_mean,cv_f1_macro_std,avg_train_time_sec,avg_inference_time_sec
+XGBoost_tuned,0.9667790766799879,0.0003586485162721673,0.955011411999069,0.0004924010066623451,11.454695099999663,0.17918755999853603
