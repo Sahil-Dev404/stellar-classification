@@ -1,0 +1,5 @@
+strategy,cv_f1_macro
+Stacked (meta-LogReg),0.955179647146028
+XGBoost_tuned (best single model),0.9550115875512725
+Simple average,0.9531033944743005
+Weighted average,0.9531033944743005
